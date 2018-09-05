@@ -6,6 +6,7 @@ My CodeFight username : joshua_yang
 These are my sulutions
 
 ## Arcade
-* Intro : 56/60
-* The Core : 48/162
-* Python : 18/92 
+* Intro : 60/60
+* Databases : 6/84
+* The Core : 57/162
+* Python : 32/92 
